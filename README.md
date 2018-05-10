@@ -1,1 +1,1 @@
-# Deep Learning in Python for windows OS.
+# Deep Learning in Python
